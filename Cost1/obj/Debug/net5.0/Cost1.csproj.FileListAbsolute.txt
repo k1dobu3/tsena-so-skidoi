@@ -1,0 +1,15 @@
+C:\Users\nvrsk\Desktop\VirtualStudio\Cost1\Cost1\Cost1\obj\Debug\net5.0\Cost1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvrsk\Desktop\VirtualStudio\Cost1\Cost1\Cost1\obj\Debug\net5.0\Cost1.AssemblyInfoInputs.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\Cost1\Cost1\Cost1\obj\Debug\net5.0\Cost1.AssemblyInfo.cs
+C:\Users\nvrsk\Desktop\VirtualStudio\Cost1\Cost1\Cost1\obj\Debug\net5.0\Cost1.csproj.CoreCompileInputs.cache
+C:\Users\nvrsk\Desktop\VirtualStudio\Cost1\Cost1\Cost1\bin\Debug\net5.0\Cost1.exe
+C:\Users\nvrsk\Desktop\VirtualStudio\Cost1\Cost1\Cost1\bin\Debug\net5.0\Cost1.deps.json
+C:\Users\nvrsk\Desktop\VirtualStudio\Cost1\Cost1\Cost1\bin\Debug\net5.0\Cost1.runtimeconfig.json
+C:\Users\nvrsk\Desktop\VirtualStudio\Cost1\Cost1\Cost1\bin\Debug\net5.0\Cost1.runtimeconfig.dev.json
+C:\Users\nvrsk\Desktop\VirtualStudio\Cost1\Cost1\Cost1\bin\Debug\net5.0\Cost1.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\Cost1\Cost1\Cost1\bin\Debug\net5.0\ref\Cost1.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\Cost1\Cost1\Cost1\bin\Debug\net5.0\Cost1.pdb
+C:\Users\nvrsk\Desktop\VirtualStudio\Cost1\Cost1\Cost1\obj\Debug\net5.0\Cost1.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\Cost1\Cost1\Cost1\obj\Debug\net5.0\ref\Cost1.dll
+C:\Users\nvrsk\Desktop\VirtualStudio\Cost1\Cost1\Cost1\obj\Debug\net5.0\Cost1.pdb
+C:\Users\nvrsk\Desktop\VirtualStudio\Cost1\Cost1\Cost1\obj\Debug\net5.0\Cost1.genruntimeconfig.cache
